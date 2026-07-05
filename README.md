@@ -49,7 +49,6 @@ The AI-Powered Customer Support & Service Automation project was developed using
 - Rangineni Vamsi
 
 ---
-https://orgfarm-317d7a60b4-dev-ed.develop.lightning.force.com/lightning/page/home
 
 ## Project Structure
 
