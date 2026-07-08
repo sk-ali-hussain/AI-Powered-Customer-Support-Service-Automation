@@ -55,9 +55,8 @@ The AI-Powered Customer Support & Service Automation project was developed using
 ```
 Documentation/
 Screenshots/
-Presentation/
-
+```
 
 ## Documentation
 
-The project documentation is available in the Documentation folder.
+The project documentation is available in the `Documentation/` folder.
